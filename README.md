@@ -1,5 +1,6 @@
 # Sistema de Gerenciamento de Tarefas
 
+![Venha conhecer o projeto Task Manager APP.](th.jpg)
 ## Descrição
 
 O Sistema de Gerenciamento de Tarefas é uma aplicação web que permite aos usuários criar, gerenciar e organizar listas de tarefas e itens associados. A aplicação oferece funcionalidades para adicionar, editar, remover e alterar o estado de itens, bem como filtrar e priorizar tarefas.

@@ -59,7 +59,7 @@ O Sistema de Gerenciamento de Tarefas é uma aplicação web que permite aos usu
 
 1. **Clone o Repositório**
    ```bash
-   git clone https://github.com/seu-usuario/task-manager-app.git
+   git clone https://github.com/lgomesroc/Java-Supera-Inovacao-em-Tecnologia.git
 
 ## Configuração do Projeto
 

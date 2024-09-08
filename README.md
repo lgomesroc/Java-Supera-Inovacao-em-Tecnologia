@@ -65,11 +65,11 @@ O Sistema de Gerenciamento de Tarefas é uma aplicação web que permite aos usu
 
 ### Instale Dependências
 
-Utilize Maven ou Gradle para gerenciar dependências.
+Utilize Maven para gerenciar dependências.
 
 ```bash
 mvn install
-
+```
 ## Configure o Banco de Dados
 
 Ajuste as configurações de conexão no arquivo `application.properties` conforme necessário.
@@ -78,13 +78,13 @@ Ajuste as configurações de conexão no arquivo `application.properties` confor
 spring.datasource.url=jdbc:mysql://localhost:3306/task_manager
 spring.datasource.username=root
 spring.datasource.password=password
-
+```
 
 ## Execute a Aplicação
 
 ```bash
 mvn spring-boot:run
-
+```
 ## Testes Automatizados
 
 ### Executar Testes
@@ -93,3 +93,4 @@ Utilize o Maven ou Gradle para executar testes automatizados.
 
 ```bash
 mvn test
+```

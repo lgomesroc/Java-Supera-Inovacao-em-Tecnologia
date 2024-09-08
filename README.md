@@ -94,3 +94,6 @@ Utilize o Maven ou Gradle para executar testes automatizados.
 ```bash
 mvn test
 ```
+
+## Licença
+ Este projeto está licenciado sob a MIT License.
